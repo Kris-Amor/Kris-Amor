@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Kristina Amor Marzan! 
 
+I'm a Computer Science graduate transitioning into data analytics, with a background that blends technical fluency and long-form writing discipline. I bring a CS foundation, hands-on experience with technical documentation, and over two years of sustained independent writing (235,000+ words across 120+ published works) into an analytical approach that values clear communication as much as clean code. I'm currently building out SQL, statistical analysis, and data visualization skills through online course trainings, applied directly to real projects rather than toy datasets.
+
 My profile is a bit empty for now but I hope to fill this in with projects and updates in the future. 
 
 - I'm currently learning data analytics and making my own projects.
