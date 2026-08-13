@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Kristina Amor Marzan! 
+
+My profile is a bit empty for now but I hope to fill this in with projects and updates in the future. 
+
+- I'm currently learning data analytics and making my own projects.
+- Fun Fact: I like writing stories and am active in certain writing communities. :D
 
 <!--
 **Kris-Amor/Kris-Amor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
