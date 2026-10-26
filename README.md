@@ -1,13 +1,9 @@
 ## Hi there 👋
 My name is Kristina Amor Marzan! 
 
-I'm a Computer Science graduate transitioning into data analytics and cloud engineering, with a background that blends technical fluency and long-form writing discipline. I bring a CS foundation, hands-on experience with technical documentation, and over two years of sustained independent writing into an analytical approach that values clear communication as much as clean code. I'm currently building out SQL, statistical analysis, and data visualization skills through online course trainings, applied directly to real projects rather than toy datasets.
+I'm a Computer Science graduate transitioning into data analytics and cloud engineering, with a background that blends technical fluency into real-life application. I bring a CS foundation, hands-on experience with technical documentation and theoretical understanding with cloud concepts into an analytical approach that values clear communication as much as clean code. I'm currently building out SQL, statistical analysis, and data visualization skills through online course trainings, applied directly to real projects rather than toy datasets. Aside from that, I'm building out projects that showed my learnings on AWS fundamentals to showcase my knowledge into tangible projects.
 
 My profile is a bit empty for now but I hope to fill this in with projects and updates in the future. 
-
-- I'm currently learning data analytics and making my own projects.
-- I'm participating in a current Cloud Bootcamp hosted by Cathedral of Praise.
-- Fun Fact: I like writing stories and am active in certain writing communities. :D
 
 <!--
 **Kris-Amor/Kris-Amor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
